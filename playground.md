@@ -1,1 +1,0 @@
-This file will be used to showcase some basic git functionalities.
